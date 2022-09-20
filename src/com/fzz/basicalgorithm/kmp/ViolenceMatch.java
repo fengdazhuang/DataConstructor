@@ -1,5 +1,6 @@
 package com.fzz.basicalgorithm.kmp;
 
+//暴力匹配算法之寻找相同字符串
 public class ViolenceMatch {
     public static void main(String[] args) {
         String str1="我我的我爱java我爱java";//3
